@@ -10,7 +10,7 @@ A simple Python game where the computer generates a random number between 1 and 
 - Beginner-friendly project
 
 ## Technologies Used
-- Python 3
+- Python 
 
 ## How to Run
 1. Install Python.
